@@ -1,3 +1,22 @@
+body {
+    background-color: black;
+    padding: 30px;
+}
+
 div {
-  background-color: green;
+    background-color: darkgreen;
+    padding: 12px;
+}
+
+.personal-info {
+    background-color: antiquewhite;
+}
+
+.info-blocks {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: salmon;
 }
