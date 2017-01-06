@@ -1,22 +1,27 @@
 body {
+    font-family: "Oswald", sans-serif;
+    color: white;
     background-color: black;
     padding: 30px;
 }
 
-div {
-    background-color: darkgreen;
-    padding: 12px;
+h2 {
+    color: #406A9C;
+}
+
+strong {
+    color: #ffb310;
+}
+
+.info-box {
+    padding: 1px;
 }
 
 .personal-info {
-    background-color: antiquewhite;
+    background-color: #000d1a;
 }
 
 .info-blocks {
     background-color: black;
     color: white;
-}
-
-h1 {
-    color: salmon;
 }
