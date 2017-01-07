@@ -5,12 +5,26 @@ body {
     padding: 30px;
 }
 
+h1 {
+    text-align: right;
+}
+
 h2 {
     color: #406A9C;
 }
 
 strong {
     color: #ffb310;
+}
+
+.photo {
+    border-radius: 100%;
+    border-color: deepskyblue;
+    margin-top: -15px;
+    border-width:medium;
+    height: 250px;
+    width: 250px;
+    float: right;
 }
 
 .info-box {
