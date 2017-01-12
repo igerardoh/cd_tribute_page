@@ -23,6 +23,10 @@ strong {
     color: #ffb310;
 }
 
+em {
+    color: lightblue
+}
+
 .personal-info {
     background-color: #000d1a;
     padding: 2% 3%;
