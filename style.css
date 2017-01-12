@@ -1,12 +1,18 @@
+html{
+    background-color: dimgray;
+}
+
 body {
     font-family: "Oswald", sans-serif;
     color: white;
     background-color: black;
     padding: 30px;
+    margin: 0 4%;
 }
 
 h1 {
     text-align: right;
+    font-size: 60px; 
 }
 
 h2 {
@@ -17,6 +23,11 @@ strong {
     color: #ffb310;
 }
 
+.personal-info {
+    background-color: #000d1a;
+    padding: 2% 3%;
+}
+
 .photo {
     border-radius: 100%;
     border-color: deepskyblue;
@@ -25,14 +36,6 @@ strong {
     height: 250px;
     width: 250px;
     float: right;
-}
-
-.info-box {
-    padding: 1px;
-}
-
-.personal-info {
-    background-color: #000d1a;
 }
 
 .info-blocks {
