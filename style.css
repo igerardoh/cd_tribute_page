@@ -19,6 +19,10 @@ h2 {
     color: #406A9C;
 }
 
+footer {
+    text-align: center;
+}
+
 strong {
     color: #ffb310;
 }
@@ -45,4 +49,9 @@ em {
 .info-blocks {
     background-color: black;
     color: white;
+}
+
+.page-footer {
+    display: inline-flex;
+    padding: 0 10px;
 }
